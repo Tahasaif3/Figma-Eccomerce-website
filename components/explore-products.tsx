@@ -1,7 +1,6 @@
 import Image from "next/image";
 import {FaRegHeart, FaRegStar, FaStar} from "react-icons/fa";
 import { FiEye } from "react-icons/fi";
-import { Button } from "./ui/button";
 
 type Product = {
   title: string;
